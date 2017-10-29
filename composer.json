@@ -1,0 +1,14 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"L2interactive\\L2interactive-theme\\" : "src"
+		}
+	},
+	"name" : "l2interactive/l2interactive-theme",
+	"type" : "wordpress-theme",
+	"description" : "Just another theme from L2 Interactive",
+	"license" : "Copyright Lynch Inc.",
+	"require" : {
+		"php" : ">=7.1"
+	}
+}
